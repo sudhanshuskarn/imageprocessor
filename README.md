@@ -1,6 +1,6 @@
 # ImageProcessor Library
 
-## Installation
+## Installation (Linux)
 
 1. Download and extract the library.
 2. Install OpenCV on your system if it's not already installed.
