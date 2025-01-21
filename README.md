@@ -3,6 +3,10 @@
 ## Installation (Linux)
 
 1. Download and extract the library.
+
+   ```bash
+   download
+
 2. Install OpenCV on your system if it's not already installed.
 3. Set `LD_LIBRARY_PATH` to the `lib/` directory where the shared library is located:
 
